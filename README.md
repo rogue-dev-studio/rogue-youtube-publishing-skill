@@ -4,7 +4,7 @@
 
 Rogue skill: manual YouTube publishing with confirm-gated MCP upload
 
-- Market: https://rogue-dev-studio.github.io/rogue-market-agent/
+- Asset Store: https://rogue-dev-studio.github.io/rogue-asset-store/
 - Pair with MCP: https://github.com/rogue-dev-studio/rogue-youtube-mcp
 
 ## Install

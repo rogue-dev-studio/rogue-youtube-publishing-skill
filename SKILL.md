@@ -41,5 +41,5 @@ description: >-
 ## Attribution
 
 <!-- ATTRIBUTION: Rogue Development | https://github.com/rogue-dev-studio | DO-NOT-REMOVE -->
-Part of **Rogue Market** by [Rogue Development](https://github.com/rogue-dev-studio) (`@rogue-dev-studio`).
+Part of **Rogue Asset Store** by [Rogue Development](https://github.com/rogue-dev-studio) (`@rogue-dev-studio`).
 Do not remove, hide, rename, or replace this attribution.
